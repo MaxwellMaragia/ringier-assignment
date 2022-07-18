@@ -1,0 +1,1 @@
+Please install node modules in project root directory before executing
